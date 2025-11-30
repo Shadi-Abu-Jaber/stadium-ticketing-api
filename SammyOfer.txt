@@ -1,0 +1,9 @@
+North_Tribune	8000
+Family_Tribune	5800
+East_Tribune	4000
+South_Tribune	5000
+Guest_Tribune	3000
+Silver_Club	2500
+Press_Box	640
+Gold_and_Diamond_Club	1642
+Sky_Box	360
